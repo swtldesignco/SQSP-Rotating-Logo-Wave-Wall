@@ -35,7 +35,7 @@ Setup is one versioned script tag in Code Injection. Every setting lives in the
 **Advanced → Page Header Code Injection**):
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/zsawtelle-lgtm/SQSP-Rotating-Logo-Wave-Wall@1.1.0/dist/waves.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/swtldesignco/SQSP-Rotating-Logo-Wave-Wall@1.1.0/dist/waves.min.js"></script>
 ```
 
 The script loads GSAP and its own base styles. Nothing else goes here.

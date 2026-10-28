@@ -1,4 +1,4 @@
-/*! Squarespace Logo Wave Wall v1.1.0 | https://github.com/zsawtelle-lgtm/SQSP-Rotating-Logo-Wave-Wall */
+/*! Squarespace Logo Wave Wall v1.1.0 | https://github.com/swtldesignco/SQSP-Rotating-Logo-Wave-Wall */
 (function () {
   const VERSION = "1.1.0";
   const GSAP_SRC = "https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js";
